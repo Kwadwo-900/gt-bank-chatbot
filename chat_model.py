@@ -5,7 +5,6 @@ from langchain.prompts import PromptTemplate
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains.question_answering import load_qa_chain
 from langchain.chains import RetrievalQA
-from langchain.vectorstores import Pinecone
 from langchain.vectorstores import Qdrant
 import os
 import pinecone
@@ -44,7 +43,7 @@ embeddings = CohereEmbeddings(model = "multilingual-22-12")
 docsearch = Pinecone.from_documents(data_chunks, embeddings, index_name=index_name)'''
 
 # local vector storage
-db = Qdrant.from_documents(data_chunks, embeddings, location=":memory:", collection_name="my_documents", distance_func="Dot")
+db = Qdrant.from_documents(data_chunks, embeddings, location=":memory:", collection_name="my_documents", distance_func="Cosine")
 
 
 # make our prompt 
@@ -63,7 +62,7 @@ PROMPT = PromptTemplate(
 chain_type_kwargs = {"prompt": PROMPT}
 
 
-# This function takes the prompt as a parameter and returns the answer based on our documents on our vector storage
+# This function takes the prompt as a parameter and returns the answer based on our documents in our vector storage
 def question_and_answer(question):
     qa = RetrievalQA.from_chain_type(llm=Cohere(model="command-nightly", temperature=0), 
                                  chain_type="stuff", 

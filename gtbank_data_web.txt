@@ -1,11 +1,7 @@
 Innovative Banking Products
 Tailored to your lifestyle, designed for your
 personal and business needs.
-
 Personal Banking products
-
-The following are savings account products
-
 Easy Savers Account
 The Easy Savers Account is a crossbreed of a current and savings account with added benefits just for you. Enjoy the flexibility of a current account and the interest-bearing feature of a savings account.
 Earn interest
@@ -29,7 +25,6 @@ Duly completed account opening forms and signature mandate cards
 One passport photograph of authorized signatory.
 Copy of valid ID (Driver’s license, Voter’s ID or passport).
 A copy of a utility bill issued within the last three months or directional map to your place of residence.
-
 Fixed & Tenured Deposits
 A Fixed/Tenored Deposit is a tenored investment account with a specific amount invested at an agreed interest rate and tenor. Based on your instructions, at the end of the agreed period (tenor), the investment can either be rolled over (re-invested) or liquidated (returned to you) with the interest amount earned.
 The period of investment (tenor) is usually for a period of 30 days (minimum), and a maximum of 180days.
@@ -40,7 +35,6 @@ Based on instruction of depositor, the investment can either be rolled over (re-
 Depositors have access to GTBank’s electronic channels at no extra cost.
 Terms and conditions
 Investment period (tenor) is usually for a period of 30 days (minimum) and a maximum of 180 days.
-
 GTCrea8 Student Account
 GTCrea8 is a card-based interest bearing student account designed to provide undergraduates and students of professional institutions the best digital banking experience.
 Classy and trendy card
@@ -61,7 +55,6 @@ One passport photograph of authorized signatory
 Copies of valid IDs (School ID or National ID)
 School Admission letter or letter of Introduction from applicant’s school
 Residence or student permit (in the case of foreign or Non-Ghanaian students)
-
 Smart Kids Save (SKS) Account
 It is good for children to enjoy their childhood; it is even better when their future is secured right from now. What better way to do this than by inculcating the culture of saving in them from a tender age.
 The Smart Kids Save (SKS) is a uniquely rewarding interest bearing savings account designed to enable you build a savings culture in your wards. It is designed for children up to the age of twelve (12) years.
@@ -78,7 +71,6 @@ Complete and submit the following documents at any of our branches:
 Duly completed account opening forms and signature mandate cards
 One passport photograph of your ward
 Copies of valid IDs (Driver’s license, international passport or any other acceptable ID as the Bank deems fit).
-
 Smart Teens Save (STS) Account
 It is good for children to enjoy their childhood; it is even better when their future is secured right from now. What better way to do this than by inculcating the culture of saving in them from a tender age.
 The Smart Teens Save (STS) is a uniquely rewarding interest bearing savings account designed to enable you build a savings culture in your wards. It is designed for teenagers between the ages of Thirteen (13) and Seventeen (17) years.
@@ -96,7 +88,6 @@ Complete and submit the following documents at any of our branches:
 Duly completed account opening forms and signature mandate cards
 One passport photograph of your ward
 Copies of valid IDs (Driver’s license, international passport or any other acceptable ID as the Bank deems fit).
-
 Target Savings Account (GT Target)
 Dreams can come true, and with a dependable bank by your side, your dreams are a step away from becoming a reality.
 Whether it is a building project, further education, wedding or vacation, GTBank’s Target Save Account will help make this happen.
@@ -117,11 +108,9 @@ Duly completed account opening forms and signature mandate cards
 One passport photograph of authorized signatory.
 Copies of valid IDs (Driver’s license, international passport or any other acceptable ID as the Bank deems fit).
 A copy of a utility bill issued within the last 3 months.
-
 GTBank Instant Account
 Open an account instantly on our flagship USSD platform, *737#.
 Owning an account has never been easier with our *737# platform. Simply dial *737*1# to open an instant account without leaving the comfort of your home or filling a form.
-
 The following are Current accounts products
 Current Account
 Our Current Account offers you a seamless and convenient way to manage your day-to-day finances, carry out routine banking transactions and enjoy unlimited access to your money via our electronic channels.
@@ -141,11 +130,9 @@ Copies of acceptable means of identification (Driver’s Licence, International 
 One passport photograph
 Two (2) duly completed and suitable reference forms. Download form here
 Utility bill issued within the last 3 months
-
 Foreign Currency Account
 The Foreign Currency Account allows you to maintain accounts in foreign currencies (US dollars, Pounds, Euros and Chinese Yen).
 You can fund these accounts through travellers’ cheques, lodgement of foreign currency cheques or SWIFT inflows. You can also withdraw cash or make transfers to your accounts or other accounts offshore via SWIFT transfer service across all branches nationwide.
-
 GTMax Account
 The ultimate account for High Net worth Individuals. Earn interest on your current account while enjoying the very best service with a dedicated Relationship Manager.
 About this account
@@ -163,7 +150,6 @@ One passport photograph
 Two (2) duly completed and suitable reference forms. Download form here
 Utility bill issued within the last 3 months
 Residence / Work Permit (for Non-Ghanaians)
-
 Seniors Account
 The GTBank Seniors Account is a current account designed specifically for Senior citizens who are 60 years and above.
 Zero COT
@@ -194,7 +180,6 @@ Migration to the Seniors Account
 Existing customers can or are migrated to the Seniors Account when they turn 60 years.
 Their type of depositor code is changed to the Senior Account’s depositor code.
 Once migrated, they enjoy the benefits of this product.
-
 Loans and Advances
 MaxAdvance
 About MaxAdvance
@@ -205,11 +190,9 @@ Complete form and submit to your Relationship Manager or any of our branches.
 The application form must be duly verified and approved/signed by the HR department of the applicant’s employer
 Applicants must submit all relevant documents together with a letter of undertaking from their HR department
 The facility will be available within 48 hours after receipt of all necessary documents.
-
 QuickCredit
 About QuickCredit
 QuickCredit is an innovative product developed to give our retail customers instant access to cash for their pressing needs. Customers with salary accounts with the Bank can borrow up to 100% of their monthly salary at only 18% per annum interest rate and enjoy up to 12 months flexible repayment plan. Simply dial *737*0# to start. For Terms and Conditions click HERE.
-
 How to Apply
 Dial *737*0#
 Select option 1 (Payday Credit)
@@ -218,16 +201,13 @@ Enter amount to borrow
 Enter Tenure (up to 12 months)
 Enter your PIN to confirm transaction
 Your funds will be credited to your account instantly.
-
 How to pay back
 Dial *737*0# on your phone
 Select option 4 (Repayment)
 Select option 2 (Close Credit)
 Enter PIN to liquidate credit.
 You will receive an instant notification to confirm that your repayment has been successful.
-
 Once the facility is fully paid, you can access it again by dialing *737*0# and selecting option 1 for Payday Credit.
-
 For further enquiries, contact us Toll Free on 0800124000
 
 Cards
